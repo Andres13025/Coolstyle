@@ -1,5 +1,5 @@
 <?php
-    include_once ("crud.php");
+    include_once "../controller/crud.php";
     $id = $_GET['id'];
     $modelo_o = new administrar();
     $modelo_e = new administrar();

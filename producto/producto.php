@@ -1,6 +1,6 @@
 <?php
 
-include_once "crud.php";
+include_once "../controller/crud.php";
 $modelo = new administrar();
 $resultado = $modelo->mostrar();
 echo "<a href='agregar.php'>Agregar datos</a>";

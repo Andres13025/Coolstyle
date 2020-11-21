@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="producto.php">PRODUCTO</a><br>
-    <a href="">PEDIDO</a>
+    <a href="producto/producto.php">PRODUCTO</a><br>
+    <a href="envio/envio.php">ENVIO</a>
     <a href=""></a>
 </body>
 </html>

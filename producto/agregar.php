@@ -1,5 +1,5 @@
 <?php
-    include_once ("crud.php");
+    include_once "../controller/crud.php";
     $modelo_a = new administrar();
 
     echo "<form action='agregar.php' method='post'>
